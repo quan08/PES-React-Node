@@ -1,0 +1,165 @@
+{
+  "table": [
+    {
+      "id": 1,
+      "status": 2,
+      "name": "Bàn 1",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648138835/icon_game_video_z1wakz.png",
+      "timestar": {
+        "year": 2022,
+        "month": 3,
+        "date": 6,
+        "hours": 20,
+        "minute": 58
+      }
+    },
+    {
+      "id": 2,
+      "status": 1,
+      "name": "Bàn 2",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648138835/icon_game_video_z1wakz.png"
+    },
+    {
+      "id": 3,
+      "status": 1,
+      "name": "Bàn 3",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648138835/icon_game_video_z1wakz.png"
+    },
+    {
+      "id": 4,
+      "status": 1,
+      "name": "Bàn 4",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648138835/icon_game_video_z1wakz.png"
+    },
+    {
+      "id": 5,
+      "status": 2,
+      "name": "Bàn 5",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648138835/icon_game_video_z1wakz.png",
+      "timestar": {
+        "year": 2022,
+        "month": 3,
+        "date": 5,
+        "hours": 15,
+        "minute": 10
+      }
+    },
+    {
+      "id": 6,
+      "status": 2,
+      "name": "Bàn 6",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648138835/icon_game_video_z1wakz.png",
+      "timestar": {
+        "year": 2022,
+        "month": 3,
+        "date": 5,
+        "hours": 8,
+        "minute": 57
+      },
+      "order": [
+        {
+          "quantity": "1",
+          "food": {
+            "food": {
+              "id": 8,
+              "name": "mỳ xúc xích",
+              "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648204433/cach-lam-mi-xao-trung_nc6tou.jpg",
+              "price": 30000
+            }
+          }
+        },
+        {
+          "quantity": "1",
+          "food": {
+            "food": {
+              "id": 6,
+              "name": "Sting",
+              "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648204433/cach-lam-mi-xao-trung_nc6tou.jpg",
+              "price": 10000
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "status": 2,
+      "name": "Bàn 7",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648138835/icon_game_video_z1wakz.png",
+      "timestar": {
+        "year": 2022,
+        "month": 3,
+        "date": 5,
+        "hours": 15,
+        "minute": 10
+      }
+    },
+    {
+      "id": 8,
+      "status": 2,
+      "name": "Bàn 8",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648138835/icon_game_video_z1wakz.png",
+      "timestar": {
+        "year": 2022,
+        "month": 3,
+        "date": 4,
+        "hours": 23,
+        "minute": 44
+      },
+      "order": []
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "name": "mỳ trứng",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648204433/cach-lam-mi-xao-trung_nc6tou.jpg",
+      "price": 20000
+    },
+    {
+      "id": 2,
+      "name": "bim bim",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648204433/cach-lam-mi-xao-trung_nc6tou.jpg",
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "name": "Bánh mỳ 3te",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648204433/cach-lam-mi-xao-trung_nc6tou.jpg",
+      "price": 10000
+    },
+    {
+      "id": 4,
+      "name": "Ngũ quả",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648204433/cach-lam-mi-xao-trung_nc6tou.jpg",
+      "price": 30000
+    },
+    {
+      "id": 5,
+      "name": "Xúc xích",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648204433/cach-lam-mi-xao-trung_nc6tou.jpg",
+      "price": 15000
+    },
+    {
+      "id": 6,
+      "name": "Sting",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648204433/cach-lam-mi-xao-trung_nc6tou.jpg",
+      "price": 10000
+    },
+    {
+      "id": 7,
+      "name": "C2",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648204433/cach-lam-mi-xao-trung_nc6tou.jpg",
+      "price": 10000
+    },
+    {
+      "id": 8,
+      "name": "mỳ xúc xích",
+      "img": "https://res.cloudinary.com/df7kkrfoe/image/upload/v1648204433/cach-lam-mi-xao-trung_nc6tou.jpg",
+      "price": 30000
+    }
+  ],
+  "generalSettings": {
+    "pricePlay": 20000
+  }
+}
